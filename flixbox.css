@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    width: 100%;
+    height: 400px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.box-1{
+    width: 20%;
+    height: 100%;
+}
+.a{
+    background-color: bisque;
+}
+.b{
+    background-color: blue;
+}
+.c{
+    background-color: cadetblue;
+}
+.d{
+    background-color: yellow;
+}
+.e{
+    background-color: violet;
+}
+/* .container2{
+    width: 100%;
+    height: 400px;
+
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.box{
+    width: 19%;
+
+    height: 100%;
+} */
